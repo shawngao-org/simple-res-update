@@ -1,0 +1,10 @@
+# 网络检查
+network:
+  # 是否启用
+  enable: false
+  # ping的IP或者域名
+  ping-addr: www.baidu.com
+update:
+  # 更新源
+  resource: https://xxxxxx/ZetoHkr/update-config/raw/branch/main/config.yml
+  self-update: https://xxxxxx/ZetoHkr/update-config/raw/branch/main/update.yml
